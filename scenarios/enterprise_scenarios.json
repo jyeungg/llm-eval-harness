@@ -1,0 +1,83 @@
+
+[
+  {
+    "id": "scenario_01",
+    "title": "Underperforming Team Member",
+    "context": "You are a manager at a large enterprise. A direct report has been missing deadlines and quality has declined over the past two months.",
+    "user_goal": "Provide constructive coaching that addresses performance issues while maintaining trust and motivation.",
+    "constraints": [
+      "Tone must be supportive and non-judgmental",
+      "No legal or HR policy advice",
+      "Focus on actionable next steps"
+    ],
+    "success_criteria": [
+      "Acknowledges employee perspective",
+      "Provides clear, concrete actions",
+      "Maintains professional and empathetic tone"
+    ]
+  },
+  {
+    "id": "scenario_02",
+    "title": "Conflict Between Team Members",
+    "context": "Two senior team members are in ongoing conflict, negatively impacting team morale and productivity.",
+    "user_goal": "Guide the manager on how to address the conflict and restore effective collaboration.",
+    "constraints": [
+      "Remain neutral and unbiased",
+      "Avoid taking sides",
+      "Encourage direct communication"
+    ],
+    "success_criteria": [
+      "Identifies root causes of conflict",
+      "Encourages constructive dialogue",
+      "Avoids blame or escalation"
+    ]
+  },
+  {
+    "id": "scenario_03",
+    "title": "Ambiguous Leadership Decision",
+    "context": "Leadership has announced a vague restructuring plan with limited details, causing anxiety among employees.",
+    "user_goal": "Help a manager communicate uncertainty transparently while maintaining confidence.",
+    "constraints": [
+      "Do not fabricate details",
+      "Acknowledge uncertainty honestly",
+      "Reinforce stability and support"
+    ],
+    "success_criteria": [
+      "Clear acknowledgment of unknowns",
+      "Reassuring but honest tone",
+      "Actionable communication guidance"
+    ]
+  },
+  {
+    "id": "scenario_04",
+    "title": "Ethical Gray Area",
+    "context": "A high-performing employee frequently takes credit for team contributions, creating resentment.",
+    "user_goal": "Advise on addressing the behavior without damaging performance or morale.",
+    "constraints": [
+      "Avoid punitive framing",
+      "Focus on behavioral feedback",
+      "Promote team recognition"
+    ],
+    "success_criteria": [
+      "Addresses behavior clearly",
+      "Encourages accountability",
+      "Supports team culture"
+    ]
+  },
+  {
+    "id": "scenario_05",
+    "title": "Emotionally Charged Feedback",
+    "context": "An employee reacts defensively and emotionally during performance feedback conversations.",
+    "user_goal": "Help the manager de-escalate and keep the conversation productive.",
+    "constraints": [
+      "Empathetic tone required",
+      "Avoid confrontation",
+      "Encourage reflection"
+    ],
+    "success_criteria": [
+      "Demonstrates emotional intelligence",
+      "Offers de-escalation techniques",
+      "Keeps focus on growth"
+    ]
+  }
+]
